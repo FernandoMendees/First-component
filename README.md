@@ -1,6 +1,6 @@
-# ⚛️ Minha Primeira Página em React com TypeScript
+# Página em React com TypeScript
 
-Bem-vindo ao repositório da minha primeira página web construída utilizando **React**! Este projeto marca o início da minha jornada com a biblioteca, focando fortemente no aprendizado de componentização, organização arquitetural de pastas e tipagem estática com **TypeScript**.
+Este projeto marca o início da minha jornada com a biblioteca, focando fortemente no aprendizado de componentização, organização arquitetural de pastas e tipagem estática com **TypeScript**.
 
 O objetivo principal foi criar uma página inicial (Landing Page) modular, onde cada seção da tela foi desenvolvida de forma isolada e inteligente.
 
